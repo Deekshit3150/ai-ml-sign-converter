@@ -1,7 +1,7 @@
 
 # 🖐️ Real-Time sign converter using MediaPipe & OpenCV
 
-This project uses MediaPipe and OpenCV to recognize hand gestures in real-time via webcam. It maps each gesture to a corresponding text message using a custom gesture classification function.
+This project uses MediaPipe and OpenCV to recognize hand gestures in real-time via webcam. It maps each gesture to a corresponding text message using a custom gesture classification function and used for real-time communication for deaf and dumb people
 
 
 
